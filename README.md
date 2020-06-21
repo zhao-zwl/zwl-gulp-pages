@@ -25,8 +25,7 @@ $ npm install zwl-gulp-pages
 
 ```javascript
 const zwlGulpPages = require('zwl-gulp-pages')
-const result = zwlGulpPages('zce')
-// result => 'zce@zce.me'
+
 ```
 
 ## API
